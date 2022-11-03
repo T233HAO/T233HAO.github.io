@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://t233hao.github.io/sitemap.xml
